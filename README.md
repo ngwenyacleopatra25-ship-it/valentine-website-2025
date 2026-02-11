@@ -11,7 +11,7 @@ Try it now: https://k3v1nho.github.io/valentine-website
 - 🎯 Interactive questions
 - 📏 Love meter that goes beyond 100%
 - 🏃‍♂️ Playful buttons that run away
-- 🎁 Hidden answer for the first question, "Do you like me?"
+- 🎁 Hidden answer for the first question, " Lesley Do you like me?"
 - 🎉 Grand celebration when they say yes!
 
 ## 🚀 Quick Start Guide
@@ -34,7 +34,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Lesley"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
